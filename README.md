@@ -1,2 +1,2 @@
-# My Pomodoro Timer with React
+### My Pomodoro Timer with React
 
